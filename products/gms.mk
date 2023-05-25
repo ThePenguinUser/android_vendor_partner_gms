@@ -1,5 +1,6 @@
 PRODUCT_PACKAGES += \
 	GmsCore \
+	AuroraStore \
 	GsfProxy \
 	FakeStore \
 	IchnaeaNlpBackend \
